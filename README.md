@@ -1,4 +1,4 @@
-# 📔 Diary
+# 📔 Diary 1
 - jpush와 Wonbi가 만든 일기를 쓰고 편집할 수 있는 Diary App입니다.
 
 ## 📖 목차
